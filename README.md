@@ -1,6 +1,6 @@
 #  A static restaurant website
 The purpose is to build a website for the no.1 noodle house restaurant. The website aims to deliver a warm and comfortable feeling to the customers.
-<br><h3>[View Live Demo](tbc)</h3>
+<br><h3>[View Live Demo](https://danniyh.github.io/Static-Noodle-House-Website/)</h3>
 
 < Web Design Assignment 1*>
 
